@@ -1,3 +1,4 @@
+# CPTEC Satellites Course
 Welcome to my script folder, where I store the codes I developed while studying the VLAB: Geostationary Satellite Data Processing at CPTEC/INPE. Here you will find a variety of scripts related to different topics covered in the course.
 
 Reference Instrutor: Souza, Diego/
